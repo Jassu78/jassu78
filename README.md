@@ -4,7 +4,7 @@
   </a>
   <br>
   <br>
-  <code>System.out.println("AI writes the boilerplate, I engineer the logic.");</code>
+  <code>System.out.println("Crafting robust logic and architecting scalable systems.");</code>
 </div>
 
 <br>
@@ -17,6 +17,11 @@
   "alias": "Jassu",
   "education": ["M.Tech CSE @ Vignan's IIT", "ECE Graduate"],
   "focus": ["Scalable Systems", "Open Source AI", "Full-Stack Dev"],
+  "environment": {
+    "primary": "macOS",
+    "favorite": "Linux",
+    "familiar": "Windows"
+  },
   "contact": "[https://linkedin.com/in/jassu78](https://linkedin.com/in/jassu78)"
 }
 ```
@@ -26,7 +31,7 @@
 | `Directory` | `Details` | `Tech Stack` |
 | --- | --- | --- |
 | 🤖 **[CodeGym-AI](https://github.com/Jassu78/CodeGym-AI)** | AI mentor validating logic step-by-step via real-time editor analysis. [Live Demo](https://code-gym-ai.vercel.app) | <kbd>Next.js</kbd> <kbd>TypeScript</kbd> |
-| 📄 **[PDF Ecosystem](https://jassu78.github.io/GlassPDF/index.html)** | Local, cloud-free suite natively built for [Android](https://github.com/Jassu78/Pdf-Worker/releases/tag/latest-build) & Web. | <kbd>Android</kbd> <kbd>Web</kbd> |
+| 📄 **PDF Ecosystem** | Local, cloud-free suite natively built for [Android](https://jassu78.github.io/Pdf-Worker/) ([APK](https://github.com/Jassu78/Pdf-Worker/releases/tag/latest-build)) & [Web](https://jassu78.github.io/GlassPDF/index.html). | <kbd>Android</kbd> <kbd>Web</kbd> |
 | 🛰️ **[Landsat Tracker](https://landsat.streamlit.app/)** | NASA Space Apps 2024 Finalist. Global live satellite pass tracking app. | <kbd>Python</kbd> <kbd>API</kbd> |
 | 🎙️ **Meeting AI** | Infosys Summit 24. MS Teams meeting summarizer & action generator. | <kbd>OpenAI</kbd> <kbd>Whisper</kbd> |
 | 🛡️ **Open Source** | Engineering agentic workflows via **DocsGPT** and **Agenta-AI**. | <kbd>Python</kbd> <kbd>LLMOps</kbd> |
@@ -43,6 +48,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jassu78&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jassu78&show_icons=true&theme=github-dark-dimmed&hide_border=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassu78&layout=compact&theme=github-dark-dimmed&hide_border=true" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=jassu78&show_icons=true&theme=github-dark-dimmed&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
 </p>
