@@ -48,10 +48,29 @@
 
 ### ⚙️ `~/sys/environment/tech_stack`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,kotlin,react,nextjs,nestjs,nodejs&theme=dark" alt="Languages and frameworks" /><br />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,git,gcp,tailwind&theme=dark" alt="Data and infra" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40" height="40" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" height="40" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" height="40" alt="Python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" height="40" alt="C++" /><br /><sub><b>C++</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="40" height="40" alt="Kotlin" /><br /><sub><b>Kotlin</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" height="40" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="40" height="40" alt="NestJS" /><br /><sub><b>NestJS</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" height="40" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" height="40" alt="Postgres" /><br /><sub><b>Postgres</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" height="40" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="40" height="40" alt="Redis" /><br /><sub><b>Redis</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" height="40" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" height="40" alt="Linux" /><br /><sub><b>Linux</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="40" height="40" alt="GCP" /><br /><sub><b>GCP</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" height="40" alt="Tailwind" /><br /><sub><b>Tailwind</b></sub></td>
+  </tr>
+</table>
 
 ### 📈 `~/sys/logs/telemetry`
 
