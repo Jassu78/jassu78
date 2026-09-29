@@ -49,7 +49,8 @@
 ### ⚙️ `~/sys/environment/tech_stack`
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,react,python,postgres,docker,linux,cpp,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,kotlin,react,nextjs,nestjs,nodejs&theme=dark" alt="Languages and frameworks" /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,git,gcp,tailwind&theme=dark" alt="Data and infra" />
 </p>
 
 ### 📈 `~/sys/logs/telemetry`
